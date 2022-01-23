@@ -10,4 +10,4 @@ There are 9 courses in the sequence. I will use this numbering to organize my pr
 106: Analyzing Data with Python
 107: Visualizing Data with Python
 108: Machine Learning with Python: A Practical Introduction
-109: Data Science and Machine Learning Capstone Project
+109: Data Science and Machine Learning Capstone Project -- in a separate repository (so it may be assessed by peers)
