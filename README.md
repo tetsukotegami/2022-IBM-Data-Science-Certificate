@@ -1,4 +1,4 @@
-# IBM-Data-Science
+# 2022-IBM-Data-Science
 This is a repository for all my introductory data science projects for the IBM Data Science certificate completed through EdX Online.
 There are 9 courses in the sequence. I will use this numbering to organize my projects. 
 
